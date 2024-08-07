@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp -b twrp-12.1
-  DEVICE: Power_Armor14_Pro
-  DT_LINK: https://github.com/lopestom/twrp_device_ulefone_Power_Armor14_Pro
-  DT_PATH: device/ulefone/Power_Armor14_Pro
+  DEVICE: Infinix-X6826
+  DT_LINK: https://github.com/twrpdtgen/android_device_infinix_Infinix-X6826
+  DT_PATH: device/infinix/Infinix-X6826
   TARGET: bootimage
   TZ: Asia/manila
 
